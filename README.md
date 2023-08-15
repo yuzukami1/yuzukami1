@@ -4,7 +4,7 @@
 - 🌱 I’m currently thinking software is a tool for usefulness.
 - 🤔 I dream of going on a Mediterranean trip.
 
-# Output
+### SNS
 
 - [Twitter](https://twitter.com/yuzukami1)
 - [Qiita](https://qiita.com/yuzukami1)
