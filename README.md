@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 With the goal of visualizing productivity, I’m currently working as an software engineer in the manufacturing industry.
+- 🌱 I’m currently thinking software is a tool for usefulness.
+- 🤔 I dream of going on a Mediterranean trip.
+
+# Output
+
+- [Twitter](https://twitter.com/yuzukami1)
+- [Qiita](https://qiita.com/yuzukami1)
+- [blog (ja)](https://yuzukami1.hatenablog.com)
+
 <!--
 **yuzukami1/yuzukami1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
